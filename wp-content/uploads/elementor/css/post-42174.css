@@ -1,0 +1,176 @@
+.elementor-42174 .elementor-element.elementor-element-89c4190:not(.elementor-motion-effects-element-type-background),
+.elementor-42174 .elementor-element.elementor-element-89c4190>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #FFFFFF;
+}
+
+.elementor-42174 .elementor-element.elementor-element-89c4190 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 80px 0px 20px 0px;
+}
+
+.elementor-42174 .elementor-element.elementor-element-89c4190>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-42174 .elementor-element.elementor-element-650e5bd {
+    text-align: center;
+}
+
+.elementor-42174 .elementor-element.elementor-element-a6877c0>.elementor-container>.elementor-column>.elementor-widget-wrap {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-42174 .elementor-element.elementor-element-a6877c0 {
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-bc-flex-widget .elementor-42174 .elementor-element.elementor-element-d18a844.elementor-column .elementor-widget-wrap {
+    align-items: center;
+}
+
+.elementor-42174 .elementor-element.elementor-element-d18a844.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-42174 .elementor-element.elementor-element-d18a844.elementor-column>.elementor-widget-wrap {
+    justify-content: flex-end;
+}
+
+.elementor-42174 .elementor-element.elementor-element-d18a844>.elementor-element-populated {
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-42174 .elementor-element.elementor-element-df445b7 {
+    width: var( --container-widget-width, 50px);
+    max-width: 50px;
+    --container-widget-width: 50px;
+    --container-widget-flex-grow: 0;
+    text-align: right;
+}
+
+.elementor-42174 .elementor-element.elementor-element-df445b7>.elementor-widget-container {
+    background-color: var( --e-global-color-cfa2e4f);
+    margin: 0px 0px 0px 0px;
+    border-radius: 50% 0% 0% 50%;
+}
+
+.elementor-42174 .elementor-element.elementor-element-df445b7 img {
+    width: 40px;
+    height: 50px;
+    object-fit: scale-down;
+    object-position: center center;
+}
+
+.elementor-42174 .elementor-element.elementor-element-13bc354 {
+    width: var( --container-widget-width, 50px);
+    max-width: 50px;
+    --container-widget-width: 50px;
+    --container-widget-flex-grow: 0;
+    text-align: right;
+}
+
+.elementor-42174 .elementor-element.elementor-element-13bc354>.elementor-widget-container {
+    background-color: var( --e-global-color-cfa2e4f);
+    margin: 0px 0px 0px 0px;
+    border-radius: 50% 0% 0% 50%;
+}
+
+.elementor-42174 .elementor-element.elementor-element-13bc354 img {
+    width: 40px;
+    height: 50px;
+    object-fit: scale-down;
+    object-position: center center;
+}
+
+.elementor-42174 .elementor-element.elementor-element-503a001 {
+    width: var( --container-widget-width, 50px);
+    max-width: 50px;
+    --container-widget-width: 50px;
+    --container-widget-flex-grow: 0;
+    text-align: right;
+}
+
+.elementor-42174 .elementor-element.elementor-element-503a001>.elementor-widget-container {
+    background-color: var( --e-global-color-cfa2e4f);
+    margin: 0px 0px 0px 0px;
+    padding: 0px 6px 0px 15px;
+    border-radius: 50% 0% 0% 50%;
+}
+
+.elementor-42174 .elementor-element.elementor-element-503a001 img {
+    width: 40px;
+    height: 50px;
+    object-fit: scale-down;
+    object-position: center center;
+}
+
+.elementor-42174 .elementor-element.elementor-element-25c8cde:not(.elementor-motion-effects-element-type-background),
+.elementor-42174 .elementor-element.elementor-element-25c8cde>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #000000;
+}
+
+.elementor-42174 .elementor-element.elementor-element-25c8cde>.elementor-container {
+    max-width: 1400px;
+}
+
+.elementor-42174 .elementor-element.elementor-element-25c8cde {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 50px 0px 0px 0px;
+}
+
+.elementor-42174 .elementor-element.elementor-element-25c8cde>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-42174 .elementor-element.elementor-element-f841a87 .elementor-heading-title {
+    color: #FFFFFF;
+}
+
+.elementor-42174 .elementor-element.elementor-element-d8168a1 {
+    color: #FFFFFF;
+}
+
+@media(max-width:1024px) {
+    .elementor-42174 .elementor-element.elementor-element-89c4190 {
+        padding: 60px 0px 60px 0px;
+    }
+}
+
+/* Start custom CSS for section, class: .elementor-element-a6877c0 */
+
+.elementor-42174 .elementor-element.elementor-element-a6877c0 {
+    position: fixed;
+    transform: translateY(-50%);
+    top: 50%;
+    right: 0;
+    z-index: 9999;
+}
+
+.elementor-42174 .elementor-element.elementor-element-a6877c0 .elementor-container .elementor-column .elementor-widget-wrap {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-end;
+    row-gap: 10px;
+}
+
+/* End custom CSS */
+
+/* Start custom CSS for shortcode, class: .elementor-element-d0dbef9 */
+
+.elementor-42174 .elementor-element.elementor-element-d0dbef9 input,
+.elementor-42174 .elementor-element.elementor-element-d0dbef9 textarea {
+    background-color: transparent !important;
+    color: #fff !important;
+    border: 0 !important;
+    border-bottom: 1px solid !important;
+    padding: 0 0 5px 0 !important;
+}
+
+.elementor-42174 .elementor-element.elementor-element-d0dbef9 button.wpforms-submit {
+    background-color: #ffd200 !important;
+}
+
+/* End custom CSS */

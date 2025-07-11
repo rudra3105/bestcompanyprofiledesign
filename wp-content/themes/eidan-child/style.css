@@ -1,0 +1,86 @@
+/*
+Theme Name: Eidan Child
+Theme URI: https://eidan.qodeinteractive.com
+Description: A child theme of Eidan
+Author: Mikado Themes
+Author URI: https://qodeinteractive.com
+Version: 1.0
+Text Domain: eidan
+Template: eidan
+*/
+
+#listing-section h4 {
+    margin: 0;
+}
+
+.span-block span {
+    display: inline-block;
+    padding-bottom: 25px;
+}
+
+.business-success {
+    transition: 0.5s;
+}
+
+.business-success:hover {
+    transform: translateY(-10px);
+    transition: 0.5s;
+}
+
+.qodef-qi-process.qodef-item-layout--horizontal.qodef-qi--has-appear .qodef-e:nth-child(3) .qodef-e-line-inner {
+    transition-delay: .95s;
+    display: none;
+}
+
+.a-hover-initial a:hover {
+    color: initial;
+}
+
+.page-template-page-landing .qodef-opener-icon.qodef-source--predefined.qodef-fullscreen-menu-opener {
+    display: none !important;
+}
+
+.page-template-page-landing #qodef-page-inner {
+    padding: 0;
+    width: 100%;
+}
+
+.page-template-page-landing.qodef-header--minimal #qodef-page-header-inner .qodef-widget-holder {
+    margin-right: 0;
+}
+
+.page-template-page-landing #qodef-page-header-inner {
+    padding: 0;
+}
+
+.page-template-page-landing a#qodef-back-to-top,
+.page-template-page-landing div#eidan_core_button-2 {
+    display: none;
+}
+
+.counter-with-image .elementor-counter-number-wrapper {
+    display: block;
+}
+
+.counter-with-image .elementor-counter-number-prefix {
+    display: block;
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.counter-with-image .elementor-counter-number-prefix img {
+    height: 90px;
+}
+
+img.floationg-whatsapp {
+    position: fixed;
+    bottom: 10px;
+    left: 10px;
+    z-index: 9999;
+}
+
+@media (max-width:768px) {
+    .qodef-qi-process.qodef-item-layout--horizontal.qodef-qi--has-appear.qodef-qi--appeared .qodef-e .qodef-e-line-inner {
+        display: none;
+    }
+}
